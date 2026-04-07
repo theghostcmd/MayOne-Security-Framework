@@ -2,7 +2,7 @@
 
 **AI‑powered Intrusion Detection & Response for Windows**
 
-![Dashboard Preview](docs/dashboard.png) 
+![Dashboard Preview](doc/dashboard.png) 
 
 ## Features
 
